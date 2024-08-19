@@ -6,5 +6,5 @@ Scripts used in the SANReN qualification round.
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,python" />   
+    <img src="https://skillicons.dev/icons?i=vscode,python,js" />   
 </div>
