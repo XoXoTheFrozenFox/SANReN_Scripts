@@ -63,24 +63,29 @@ function getDownloadsFolder() {
 // Main function to execute the program
 async function main() {
     const downloadsFolder = path.join(getDownloadsFolder(), 'Downloads');
-    const filePath = path.join(downloadsFolder, 'output'); // Change this to your actual file
+    const inputFilePath = path.join(downloadsFolder, 'output'); // Change this to your actual file
+    const outputFilePath = path.join(downloadsFolder, 'outputfixed.txt');
 
-    if (!fs.existsSync(filePath)) {
-        console.error(`File not found: ${filePath}`);
+    if (!fs.existsSync(inputFilePath)) {
+        console.error(`File not found: ${inputFilePath}`);
         return;
     }
 
     try {
-        const data = await readDataset(filePath);
+        const data = await readDataset(inputFilePath);
         const binaryData = data.trim().split('\n').map(line => line.split('').map(Number));
 
         console.log('Original Encoded Data:', binaryData);
 
         // Decode the data
         const decodedResults = decodeHamming(binaryData);
-        const decodedData = decodedResults.map(result => result.decoded);
+        const decodedData = decodedResults.map(result => result.decoded.join(''));
 
         console.log('Decoded Data:', decodedData);
+
+        // Write the decoded data to a new file
+        await fs.promises.writeFile(outputFilePath, decodedData.join('\n'), 'utf8');
+        console.log(`Decoded data has been saved to: ${outputFilePath}`);
     } catch (error) {
         console.error('Error:', error.message);
     }
