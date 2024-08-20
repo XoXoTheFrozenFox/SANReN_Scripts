@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "crypto-js": "^4.2.0",
-    "mathjs": "^13.0.3"
-  }
-}
