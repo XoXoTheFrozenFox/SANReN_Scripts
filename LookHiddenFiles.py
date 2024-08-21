@@ -1,4 +1,10 @@
 import os
+import ctypes
+
+def is_hidden(filepath):
+    """Check if a file is hidden in Windows."""
+    attribute = ctypes.windll.kernel32.GetFileAttributesW(filepath)
+    return attribute & 2  # 2 is the file attribute for hidden files
 
 def find_hidden_files(directory):
     # Check if the directory exists
@@ -17,7 +23,7 @@ def find_hidden_files(directory):
             print(f"Found file: {file_path}")
             
             # Check if the file is hidden
-            if name.startswith('.'):
+            if is_hidden(file_path):
                 hidden_files.append(file_path)
     
     return hidden_files
