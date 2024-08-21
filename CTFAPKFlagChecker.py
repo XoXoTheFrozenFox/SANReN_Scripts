@@ -8,7 +8,7 @@ directory_path = os.path.join(os.path.expanduser("~"), "Downloads", "challenge-1
 output_file = os.path.join(directory_path, "ctf_flags.txt")
 
 # Regex pattern to match CTF{...}
-pattern = re.compile(r'CTF')
+pattern = re.compile(r'dog')
 
 # List to store found CTF flags along with their file paths
 found_flags = []
