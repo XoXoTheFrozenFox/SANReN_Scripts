@@ -33,7 +33,7 @@ def find_hidden_items(directory):
 def main():
     # Define the path to the "resources" directory in the "Downloads" folder
     downloads_folder = os.path.expanduser('~/Downloads')
-    resources_folder = os.path.join(downloads_folder, 'resources')
+    resources_folder = os.path.join(downloads_folder, 'challenge-1')
 
     # Find hidden files and directories in the resources directory
     hidden_items = find_hidden_items(resources_folder)
