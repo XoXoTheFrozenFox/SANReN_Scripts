@@ -1,0 +1,802 @@
+Processing /home/kali/Downloads/screenshots/0.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 595 x 225, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/10.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+801915        0xC3C7B         MySQL MISAM index file Version 7
+
+
+
+Processing /home/kali/Downloads/screenshots/11.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 390 x 586, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/12.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+
+Processing /home/kali/Downloads/screenshots/13.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 595 x 226, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/14.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6787, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/15.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 3323, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/164.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+
+Processing /home/kali/Downloads/screenshots/16.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2522, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/17.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/18.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2759, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/19.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/1.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 877, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/20.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 5204, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/21.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 3545, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/22.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+
+Processing /home/kali/Downloads/screenshots/23.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/24.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 1547, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/25.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/26.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1216 x 370, 8-bit/color RGBA, non-interlaced
+91            0x5B            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/27.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6333, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/28.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6757, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/29.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 1, 8-bit/color RGBA, non-interlaced
+
+
+
+Processing /home/kali/Downloads/screenshots/2.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+
+Processing /home/kali/Downloads/screenshots/30.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 784, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/31.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 527, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/32.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 600 x 309, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/33.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 747, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/34.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 4729, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/35.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/36.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 7618, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/37.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 4448, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/38.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 3743, 8-bit/color RGBA, non-interlaced
+
+
+
+Processing /home/kali/Downloads/screenshots/39.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 5573, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/3.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/41.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2340, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/42.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/43.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 5163, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/44.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 4501, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+342884        0x53B64         gzip compressed data, has 4571 bytes of extra data, has comment, last modified: 2024-12-12 23:11:19
+
+
+
+Processing /home/kali/Downloads/screenshots/45.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 595 x 226, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/46.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/47.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6893, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/48.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/4.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2522, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/50.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 3546, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/51.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+
+Processing /home/kali/Downloads/screenshots/53.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 3445, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/54.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2142, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/55.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 5728, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/56.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 855, 8-bit/color RGBA, non-interlaced
+
+
+
+Processing /home/kali/Downloads/screenshots/57.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 8499, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/58.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/59.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/5.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6667, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/60.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 5458, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/61.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 7423, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/62.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/63.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 272, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/64.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 747, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/65.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/66.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 880, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/67.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2550, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/68.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 8660, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/69.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/6.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/70.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/71.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+352905        0x56289         MySQL MISAM index file Version 1
+
+
+
+Processing /home/kali/Downloads/screenshots/72.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 8986, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/73.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2117, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/74.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/75.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6044, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/76.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2677, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/77.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 5383, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/79.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+630679        0x99F97         MySQL MISAM index file Version 7
+
+
+
+Processing /home/kali/Downloads/screenshots/7.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 595 x 226, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/80.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 595 x 226, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/81.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/82.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 2831, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/83.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+
+Processing /home/kali/Downloads/screenshots/84.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 8431, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/85.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 4083, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/86.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 1081, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/87.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6992, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/88.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 3019, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/89.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 648 x 324, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/8.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 6611, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/91.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 770, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/92.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1200 x 9136, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/93.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 991, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+295579        0x4829B         rzip compressed data - version 67.93 (1395833903 bytes)
+
+
+
+Processing /home/kali/Downloads/screenshots/94.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 1188 x 836, 8-bit/color RGBA, non-interlaced
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/9.png...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+41            0x29            Zlib compressed data, compressed
+
+
+
+Processing /home/kali/Downloads/screenshots/packages.microsoft.gpg...
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+

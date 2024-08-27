@@ -1,0 +1,2081 @@
+Processing /home/kali/Downloads/screenshots/0.png...
+ExifTool Version Number         : 12.76
+File Name                       : 0.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 36 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 595
+Image Height                    : 225
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 595x225
+Megapixels                      : 0.134
+
+
+Processing /home/kali/Downloads/screenshots/10.png...
+ExifTool Version Number         : 12.76
+File Name                       : 10.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1810 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 11808
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x11808
+Megapixels                      : 14.0
+
+
+Processing /home/kali/Downloads/screenshots/11.png...
+ExifTool Version Number         : 12.76
+File Name                       : 11.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 61 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 390
+Image Height                    : 586
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 390x586
+Megapixels                      : 0.229
+
+
+Processing /home/kali/Downloads/screenshots/12.png...
+ExifTool Version Number         : 12.76
+File Name                       : 12.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 101 bytes
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JSON
+File Type Extension             : json
+MIME Type                       : application/json
+Error Code                      : validation_error
+Error Details Error             : 
+Error Message                   : A validation error occurred.
+
+
+Processing /home/kali/Downloads/screenshots/13.png...
+ExifTool Version Number         : 12.76
+File Name                       : 13.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 36 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 595
+Image Height                    : 226
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 595x226
+Megapixels                      : 0.134
+
+
+Processing /home/kali/Downloads/screenshots/14.png...
+ExifTool Version Number         : 12.76
+File Name                       : 14.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.0 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6787
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6787
+Megapixels                      : 8.1
+
+
+Processing /home/kali/Downloads/screenshots/15.png...
+ExifTool Version Number         : 12.76
+File Name                       : 15.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1442 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 3323
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x3323
+Megapixels                      : 3.9
+
+
+Processing /home/kali/Downloads/screenshots/164.png...
+ExifTool Version Number         : 12.76
+File Name                       : 164.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 151 bytes
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:39-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JSON
+File Type Extension             : json
+MIME Type                       : application/json
+Error Code                      : quota_reached
+Error Details                   : null
+Error Message                   : You have reached your quota. Please, subscribe to a paid plan to continue using this API.
+
+
+Processing /home/kali/Downloads/screenshots/16.png...
+ExifTool Version Number         : 12.76
+File Name                       : 16.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 112 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2522
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2522
+Megapixels                      : 3.0
+
+
+Processing /home/kali/Downloads/screenshots/17.png...
+ExifTool Version Number         : 12.76
+File Name                       : 17.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 349 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/18.png...
+ExifTool Version Number         : 12.76
+File Name                       : 18.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 780 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2759
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2759
+Megapixels                      : 3.3
+
+
+Processing /home/kali/Downloads/screenshots/19.png...
+ExifTool Version Number         : 12.76
+File Name                       : 19.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1538 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 11772
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x11772
+Megapixels                      : 14.0
+
+
+Processing /home/kali/Downloads/screenshots/1.png...
+ExifTool Version Number         : 12.76
+File Name                       : 1.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 97 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 877
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x877
+Megapixels                      : 1.0
+
+
+Processing /home/kali/Downloads/screenshots/20.png...
+ExifTool Version Number         : 12.76
+File Name                       : 20.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 882 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 5204
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x5204
+Megapixels                      : 6.2
+
+
+Processing /home/kali/Downloads/screenshots/21.png...
+ExifTool Version Number         : 12.76
+File Name                       : 21.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 3545
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x3545
+Megapixels                      : 4.2
+
+
+Processing /home/kali/Downloads/screenshots/22.png...
+ExifTool Version Number         : 12.76
+File Name                       : 22.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 118 bytes
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JSON
+File Type Extension             : json
+MIME Type                       : application/json
+Error Code                      : validation_error
+Error Details Error             : URL doesn't exist
+Error Message                   : A validation error occurred.
+
+
+Processing /home/kali/Downloads/screenshots/23.png...
+ExifTool Version Number         : 12.76
+File Name                       : 23.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 65 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/24.png...
+ExifTool Version Number         : 12.76
+File Name                       : 24.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 217 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:40-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 1547
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x1547
+Megapixels                      : 1.8
+
+
+Processing /home/kali/Downloads/screenshots/25.png...
+ExifTool Version Number         : 12.76
+File Name                       : 25.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 950 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:40-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 32767
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x32767
+Megapixels                      : 38.9
+
+
+Processing /home/kali/Downloads/screenshots/26.png...
+ExifTool Version Number         : 12.76
+File Name                       : 26.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 918 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:40-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1216
+Image Height                    : 370
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Gamma                           : 2.2
+Pixels Per Unit X               : 4724
+Pixels Per Unit Y               : 4724
+Pixel Units                     : meters
+Warning                         : [minor] Trailer data after PNG IEND chunk
+Image Size                      : 1216x370
+Megapixels                      : 0.450
+
+
+Processing /home/kali/Downloads/screenshots/27.png...
+ExifTool Version Number         : 12.76
+File Name                       : 27.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1699 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6333
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6333
+Megapixels                      : 7.5
+
+
+Processing /home/kali/Downloads/screenshots/28.png...
+ExifTool Version Number         : 12.76
+File Name                       : 28.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1577 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6757
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6757
+Megapixels                      : 8.0
+
+
+Processing /home/kali/Downloads/screenshots/29.png...
+ExifTool Version Number         : 12.76
+File Name                       : 29.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 108 bytes
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 1
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x1
+Megapixels                      : 0.001
+
+
+Processing /home/kali/Downloads/screenshots/2.png...
+ExifTool Version Number         : 12.76
+File Name                       : 2.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 118 bytes
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JSON
+File Type Extension             : json
+MIME Type                       : application/json
+Error Code                      : validation_error
+Error Details Error             : URL doesn't exist
+Error Message                   : A validation error occurred.
+
+
+Processing /home/kali/Downloads/screenshots/30.png...
+ExifTool Version Number         : 12.76
+File Name                       : 30.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 302 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 784
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x784
+Megapixels                      : 0.931
+
+
+Processing /home/kali/Downloads/screenshots/31.png...
+ExifTool Version Number         : 12.76
+File Name                       : 31.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 61 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 527
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x527
+Megapixels                      : 0.626
+
+
+Processing /home/kali/Downloads/screenshots/32.png...
+ExifTool Version Number         : 12.76
+File Name                       : 32.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 52 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 600
+Image Height                    : 309
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 600x309
+Megapixels                      : 0.185
+
+
+Processing /home/kali/Downloads/screenshots/33.png...
+ExifTool Version Number         : 12.76
+File Name                       : 33.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 69 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 747
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x747
+Megapixels                      : 0.887
+
+
+Processing /home/kali/Downloads/screenshots/34.png...
+ExifTool Version Number         : 12.76
+File Name                       : 34.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1541 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 4729
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x4729
+Megapixels                      : 5.6
+
+
+Processing /home/kali/Downloads/screenshots/35.png...
+ExifTool Version Number         : 12.76
+File Name                       : 35.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 65 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/36.png...
+ExifTool Version Number         : 12.76
+File Name                       : 36.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1459 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:41-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 7618
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x7618
+Megapixels                      : 9.1
+
+
+Processing /home/kali/Downloads/screenshots/37.png...
+ExifTool Version Number         : 12.76
+File Name                       : 37.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 4448
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x4448
+Megapixels                      : 5.3
+
+
+Processing /home/kali/Downloads/screenshots/38.png...
+ExifTool Version Number         : 12.76
+File Name                       : 38.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 3743
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x3743
+Megapixels                      : 4.4
+
+
+Processing /home/kali/Downloads/screenshots/39.png...
+ExifTool Version Number         : 12.76
+File Name                       : 39.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 941 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 5573
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x5573
+Megapixels                      : 6.6
+
+
+Processing /home/kali/Downloads/screenshots/3.png...
+ExifTool Version Number         : 12.76
+File Name                       : 3.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 53 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/41.png...
+ExifTool Version Number         : 12.76
+File Name                       : 41.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1390 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2340
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2340
+Megapixels                      : 2.8
+
+
+Processing /home/kali/Downloads/screenshots/42.png...
+ExifTool Version Number         : 12.76
+File Name                       : 42.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 4.9 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 14458
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x14458
+Megapixels                      : 17.2
+
+
+Processing /home/kali/Downloads/screenshots/43.png...
+ExifTool Version Number         : 12.76
+File Name                       : 43.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 921 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 5163
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x5163
+Megapixels                      : 6.1
+
+
+Processing /home/kali/Downloads/screenshots/44.png...
+ExifTool Version Number         : 12.76
+File Name                       : 44.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 4501
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x4501
+Megapixels                      : 5.3
+
+
+Processing /home/kali/Downloads/screenshots/45.png...
+ExifTool Version Number         : 12.76
+File Name                       : 45.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 36 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 595
+Image Height                    : 226
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 595x226
+Megapixels                      : 0.134
+
+
+Processing /home/kali/Downloads/screenshots/46.png...
+ExifTool Version Number         : 12.76
+File Name                       : 46.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.4 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:42-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 32767
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x32767
+Megapixels                      : 38.9
+
+
+Processing /home/kali/Downloads/screenshots/47.png...
+ExifTool Version Number         : 12.76
+File Name                       : 47.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1264 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6893
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6893
+Megapixels                      : 8.2
+
+
+Processing /home/kali/Downloads/screenshots/48.png...
+ExifTool Version Number         : 12.76
+File Name                       : 48.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1546 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 11953
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x11953
+Megapixels                      : 14.2
+
+
+Processing /home/kali/Downloads/screenshots/4.png...
+ExifTool Version Number         : 12.76
+File Name                       : 4.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 112 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2522
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2522
+Megapixels                      : 3.0
+
+
+Processing /home/kali/Downloads/screenshots/50.png...
+ExifTool Version Number         : 12.76
+File Name                       : 50.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1136 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 3546
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x3546
+Megapixels                      : 4.2
+
+
+Processing /home/kali/Downloads/screenshots/51.png...
+ExifTool Version Number         : 12.76
+File Name                       : 51.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1878 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 27189
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x27189
+Megapixels                      : 32.3
+
+
+Processing /home/kali/Downloads/screenshots/53.png...
+ExifTool Version Number         : 12.76
+File Name                       : 53.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1168 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 3445
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x3445
+Megapixels                      : 4.1
+
+
+Processing /home/kali/Downloads/screenshots/54.png...
+ExifTool Version Number         : 12.76
+File Name                       : 54.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 414 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2142
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2142
+Megapixels                      : 2.5
+
+
+Processing /home/kali/Downloads/screenshots/55.png...
+ExifTool Version Number         : 12.76
+File Name                       : 55.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1284 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 5728
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x5728
+Megapixels                      : 6.8
+
+
+Processing /home/kali/Downloads/screenshots/56.png...
+ExifTool Version Number         : 12.76
+File Name                       : 56.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 44 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 855
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x855
+Megapixels                      : 1.0
+
+
+Processing /home/kali/Downloads/screenshots/57.png...
+ExifTool Version Number         : 12.76
+File Name                       : 57.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 456 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 8499
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x8499
+Megapixels                      : 10.1
+
+
+Processing /home/kali/Downloads/screenshots/58.png...
+ExifTool Version Number         : 12.76
+File Name                       : 58.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1959 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:43-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 18482
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x18482
+Megapixels                      : 22.0
+
+
+Processing /home/kali/Downloads/screenshots/59.png...
+ExifTool Version Number         : 12.76
+File Name                       : 59.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 196 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/5.png...
+ExifTool Version Number         : 12.76
+File Name                       : 5.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.0 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6667
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6667
+Megapixels                      : 7.9
+
+
+Processing /home/kali/Downloads/screenshots/60.png...
+ExifTool Version Number         : 12.76
+File Name                       : 60.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.9 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 5458
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x5458
+Megapixels                      : 6.5
+
+
+Processing /home/kali/Downloads/screenshots/61.png...
+ExifTool Version Number         : 12.76
+File Name                       : 61.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 7423
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x7423
+Megapixels                      : 8.9
+
+
+Processing /home/kali/Downloads/screenshots/62.png...
+ExifTool Version Number         : 12.76
+File Name                       : 62.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 47 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/63.png...
+ExifTool Version Number         : 12.76
+File Name                       : 63.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 35 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 272
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x272
+Megapixels                      : 0.323
+
+
+Processing /home/kali/Downloads/screenshots/64.png...
+ExifTool Version Number         : 12.76
+File Name                       : 64.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 68 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 747
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x747
+Megapixels                      : 0.887
+
+
+Processing /home/kali/Downloads/screenshots/65.png...
+ExifTool Version Number         : 12.76
+File Name                       : 65.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 10873
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x10873
+Megapixels                      : 12.9
+
+
+Processing /home/kali/Downloads/screenshots/66.png...
+ExifTool Version Number         : 12.76
+File Name                       : 66.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 158 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 880
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x880
+Megapixels                      : 1.0
+
+
+Processing /home/kali/Downloads/screenshots/67.png...
+ExifTool Version Number         : 12.76
+File Name                       : 67.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 907 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:44-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2550
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2550
+Megapixels                      : 3.0
+
+
+Processing /home/kali/Downloads/screenshots/68.png...
+ExifTool Version Number         : 12.76
+File Name                       : 68.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1476 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 8660
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x8660
+Megapixels                      : 10.3
+
+
+Processing /home/kali/Downloads/screenshots/69.png...
+ExifTool Version Number         : 12.76
+File Name                       : 69.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 2.5 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 10107
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x10107
+Megapixels                      : 12.0
+
+
+Processing /home/kali/Downloads/screenshots/6.png...
+ExifTool Version Number         : 12.76
+File Name                       : 6.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 363 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x770
+Megapixels                      : 0.915
+
+
+Processing /home/kali/Downloads/screenshots/70.png...
+ExifTool Version Number         : 12.76
+File Name                       : 70.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.0 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 10768
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x10768
+Megapixels                      : 12.8
+
+
+Processing /home/kali/Downloads/screenshots/71.png...
+ExifTool Version Number         : 12.76
+File Name                       : 71.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.5 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 10804
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x10804
+Megapixels                      : 12.8
+
+
+Processing /home/kali/Downloads/screenshots/72.png...
+ExifTool Version Number         : 12.76
+File Name                       : 72.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1673 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 8986
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x8986
+Megapixels                      : 10.8
+
+
+Processing /home/kali/Downloads/screenshots/73.png...
+ExifTool Version Number         : 12.76
+File Name                       : 73.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1297 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2117
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2117
+Megapixels                      : 2.5
+
+
+Processing /home/kali/Downloads/screenshots/74.png...
+ExifTool Version Number         : 12.76
+File Name                       : 74.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 64 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/75.png...
+ExifTool Version Number         : 12.76
+File Name                       : 75.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.6 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6044
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6044
+Megapixels                      : 7.2
+
+
+Processing /home/kali/Downloads/screenshots/76.png...
+ExifTool Version Number         : 12.76
+File Name                       : 76.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1199 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2677
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2677
+Megapixels                      : 3.2
+
+
+Processing /home/kali/Downloads/screenshots/77.png...
+ExifTool Version Number         : 12.76
+File Name                       : 77.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1843 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:45-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 5383
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x5383
+Megapixels                      : 6.4
+
+
+Processing /home/kali/Downloads/screenshots/79.png...
+ExifTool Version Number         : 12.76
+File Name                       : 79.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1532 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 11612
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x11612
+Megapixels                      : 13.8
+
+
+Processing /home/kali/Downloads/screenshots/7.png...
+ExifTool Version Number         : 12.76
+File Name                       : 7.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 36 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 595
+Image Height                    : 226
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 595x226
+Megapixels                      : 0.134
+
+
+Processing /home/kali/Downloads/screenshots/80.png...
+ExifTool Version Number         : 12.76
+File Name                       : 80.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 36 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 595
+Image Height                    : 226
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 595x226
+Megapixels                      : 0.134
+
+
+Processing /home/kali/Downloads/screenshots/81.png...
+ExifTool Version Number         : 12.76
+File Name                       : 81.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 926 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 10125
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x10125
+Megapixels                      : 12.0
+
+
+Processing /home/kali/Downloads/screenshots/82.png...
+ExifTool Version Number         : 12.76
+File Name                       : 82.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1406 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 2831
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x2831
+Megapixels                      : 3.4
+
+
+Processing /home/kali/Downloads/screenshots/83.png...
+ExifTool Version Number         : 12.76
+File Name                       : 83.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 101 bytes
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : JSON
+File Type Extension             : json
+MIME Type                       : application/json
+Error Code                      : validation_error
+Error Details Error             : 
+Error Message                   : A validation error occurred.
+
+
+Processing /home/kali/Downloads/screenshots/84.png...
+ExifTool Version Number         : 12.76
+File Name                       : 84.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.0 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 8431
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x8431
+Megapixels                      : 10.0
+
+
+Processing /home/kali/Downloads/screenshots/85.png...
+ExifTool Version Number         : 12.76
+File Name                       : 85.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1090 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 4083
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x4083
+Megapixels                      : 4.9
+
+
+Processing /home/kali/Downloads/screenshots/86.png...
+ExifTool Version Number         : 12.76
+File Name                       : 86.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 616 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 1081
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x1081
+Megapixels                      : 1.3
+
+
+Processing /home/kali/Downloads/screenshots/87.png...
+ExifTool Version Number         : 12.76
+File Name                       : 87.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.4 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6992
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6992
+Megapixels                      : 8.3
+
+
+Processing /home/kali/Downloads/screenshots/88.png...
+ExifTool Version Number         : 12.76
+File Name                       : 88.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1202 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 3019
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x3019
+Megapixels                      : 3.6
+
+
+Processing /home/kali/Downloads/screenshots/89.png...
+ExifTool Version Number         : 12.76
+File Name                       : 89.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 33 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:46-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 648
+Image Height                    : 324
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 648x324
+Megapixels                      : 0.210
+
+
+Processing /home/kali/Downloads/screenshots/8.png...
+ExifTool Version Number         : 12.76
+File Name                       : 8.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 691 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:25-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 6611
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x6611
+Megapixels                      : 7.9
+
+
+Processing /home/kali/Downloads/screenshots/91.png...
+ExifTool Version Number         : 12.76
+File Name                       : 91.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 65 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:47-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 770
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x770
+Megapixels                      : 0.924
+
+
+Processing /home/kali/Downloads/screenshots/92.png...
+ExifTool Version Number         : 12.76
+File Name                       : 92.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 3.3 MB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:47-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1200
+Image Height                    : 9136
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1200x9136
+Megapixels                      : 11.0
+
+
+Processing /home/kali/Downloads/screenshots/93.png...
+ExifTool Version Number         : 12.76
+File Name                       : 93.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 357 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:47-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 991
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x991
+Megapixels                      : 1.2
+
+
+Processing /home/kali/Downloads/screenshots/94.png...
+ExifTool Version Number         : 12.76
+File Name                       : 94.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 241 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 14:50:47-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 836
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x836
+Megapixels                      : 0.993
+
+
+Processing /home/kali/Downloads/screenshots/9.png...
+ExifTool Version Number         : 12.76
+File Name                       : 9.png
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 1334 kB
+File Modification Date/Time     : 2024:02:21 01:14:28-05:00
+File Access Date/Time           : 2024:08:27 13:27:26-04:00
+File Inode Change Date/Time     : 2024:08:27 13:27:06-04:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1188
+Image Height                    : 10121
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1188x10121
+Megapixels                      : 12.0
+
+
+Processing /home/kali/Downloads/screenshots/packages.microsoft.gpg...
+ExifTool Version Number         : 12.76
+File Name                       : packages.microsoft.gpg
+Directory                       : /home/kali/Downloads/screenshots
+File Size                       : 0 bytes
+File Modification Date/Time     : 2024:08:27 13:44:11-04:00
+File Access Date/Time           : 2024:08:27 14:50:47-04:00
+File Inode Change Date/Time     : 2024:08:27 13:44:11-04:00
+File Permissions                : -rw-rw-r--
+Error                           : File is empty
+
+
