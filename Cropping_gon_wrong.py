@@ -4,6 +4,7 @@ import struct
 
 def validate_and_repair_png(file_path):
     repaired = False
+    valid = True
     try:
         with open(file_path, 'rb') as f:
             data = f.read()
@@ -17,17 +18,41 @@ def validate_and_repair_png(file_path):
         chunks = []
         offset = 8
         while offset < len(data):
+            # Ensure there are enough bytes to read the chunk length
+            if offset + 4 > len(data):
+                print(f"{file_path}: Not enough data to read chunk length. Skipping incomplete chunk.")
+                valid = False
+                break
+
             # Read chunk length
             length = struct.unpack('>I', data[offset:offset + 4])[0]
             offset += 4
+
+            # Ensure there are enough bytes to read the chunk type
+            if offset + 4 > len(data):
+                print(f"{file_path}: Not enough data to read chunk type. Skipping incomplete chunk.")
+                valid = False
+                break
 
             # Read chunk type
             chunk_type = data[offset:offset + 4]
             offset += 4
 
+            # Ensure there are enough bytes to read the chunk data
+            if offset + length > len(data):
+                print(f"{file_path}: Not enough data to read chunk data. Skipping incomplete chunk.")
+                valid = False
+                break
+
             # Read chunk data
             chunk_data = data[offset:offset + length]
             offset += length
+
+            # Ensure there are enough bytes to read the CRC
+            if offset + 4 > len(data):
+                print(f"{file_path}: Not enough data to read CRC. Skipping incomplete chunk.")
+                valid = False
+                break
 
             # Read and validate CRC
             crc_read = struct.unpack('>I', data[offset:offset + 4])[0]
@@ -42,9 +67,10 @@ def validate_and_repair_png(file_path):
             # Append chunk to the list
             chunks.append((length, chunk_type, chunk_data, crc_read))
 
-        if repaired:
-            # Rebuild the PNG file with corrected CRC values
-            with open(file_path, 'wb') as f:
+        if chunks:
+            # Rebuild the PNG file with only the valid chunks
+            repaired_file_path = file_path.replace('.png', '_repaired.png')
+            with open(repaired_file_path, 'wb') as f:
                 f.write(signature)
                 for length, chunk_type, chunk_data, crc in chunks:
                     f.write(struct.pack('>I', length))
@@ -52,11 +78,11 @@ def validate_and_repair_png(file_path):
                     f.write(chunk_data)
                     f.write(struct.pack('>I', crc))
 
-            print(f"{file_path}: Repaired successfully.")
+            print(f"{file_path}: Repaired and saved as {repaired_file_path}.")
         else:
-            print(f"{file_path}: No repairs needed.")
+            print(f"{file_path}: No valid chunks to rebuild the file.")
 
-        return True, repaired
+        return valid, repaired
 
     except Exception as e:
         print(f"Error processing file {file_path}: {e}")
@@ -82,7 +108,7 @@ else:
                     else:
                         print(f"{file_name} is a valid PNG file.")
                 else:
-                    print(f"{file_name} is not a valid PNG file and could not be repaired.")
+                    print(f"{file_name} is not a valid PNG file and could not be fully repaired.")
 
     if not files_found:
         print("No PNG files found in the folder.")
