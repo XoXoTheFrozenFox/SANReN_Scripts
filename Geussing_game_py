@@ -1,0 +1,23 @@
+def sum_name(name):
+    return sum(ord(char) for char in name)
+
+def calculate_result(name):
+    # Define the fixed string "Dopkass"
+    fixed_string = "Dopkass"
+
+    # Calculate sum of ASCII values of characters in "Dopkass"
+    sum_of_characters = sum_name(fixed_string)
+
+    # Calculate the expected value
+    local_1d = ord(name[0])
+    local_24 = len(name)  # Assuming `local_24` is the length of the name
+    expected_value = (local_1d * 3 ^ sum_of_characters) << (local_24 & 0x1f)
+
+    return expected_value
+
+# Define the name to be used (it should be "Dopkass")
+name = "Dopkass"
+
+# Calculate and print the expected result
+expected_result = calculate_result(name)
+print(f"Expected result: {expected_result}")
